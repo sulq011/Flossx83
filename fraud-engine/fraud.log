@@ -1,0 +1,9 @@
+[fraud] stdlib mode on 0.0.0.0:8091 (install fastapi+uvicorn for the full stack)
+Traceback (most recent call la[fraud] "POST /reset HTTP/1.1" 200 -
+[fraud] "GET /health HTTP/1.1" 200 -
+[fraud] BODY: b'{"mti":"0200","fields":{"2":"NspW8T5yzVpkxdCPEylUV+Vqz5RKQ+rLDDQz1gkvrAs=","3":"000000","4":"000000005000","52":"jHdrbFqHElKrds+64ueNuQ==","7":"1026133011","11":"010611","12":"133011","13":"1026"}}'
+[fraud] "POST /score HTTP/1.1" 200 -
+[fraud] BODY: b'{"mti":"0200","fields":{"2":"2fmgIgZ9A9wwZYzBltNypYcPCDnKDyX96ukidde6Y9Q=","3":"000000","4":"000000005000","52":"k8r17M74PGa44T5AR5Qr3Q==","7":"1026133204","11":"010724","12":"133204","13":"1026"}}'
+[fraud] "POST /score HTTP/1.1" 200 -
+[fraud] BODY: b'{"mti":"0200","fields":{"2":"2fmgIgZ9A9wwZYzBltNypYcPCDnKDyX96ukidde6Y9Q=","3":"000000","4":"000000000100","52":"k8r17M74PGa44T5AR5Qr3Q==","7":"1026133453","11":"010893","12":"133453","13":"1026"}}'
+[fraud] "POST /score HTTP/1.1" 200 -

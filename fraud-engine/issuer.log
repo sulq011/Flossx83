@@ -1,0 +1,8 @@
+issuer_mock v2 on :8092  cards=6  api_key=off
+[RESET] balances restored
+[AUTH] 4659***8467 amount=5000 -> 00 auth=A10611 balance_minor=895000
+[REQ] 4659***8467 mti=0200 -> 00
+[AUTH] 4651***9133 amount=5000 -> 00 auth=A10724 balance_minor=2495000
+[REQ] 4651***9133 mti=0200 -> 00
+[AUTH] 4651***9133 amount=100 -> 00 auth=A10893 balance_minor=2494900
+[REQ] 4651***9133 mti=0200 -> 00
